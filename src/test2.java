@@ -2,7 +2,6 @@
 public class test2 {
 private void syso() {
 	System.out.println("Hello");
-	System.out.println("Hello2");
 
 }
 
