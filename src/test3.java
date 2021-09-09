@@ -1,8 +1,10 @@
 
-public class test2 {
+public class test3{
 private void syso() {
 	System.out.println("Hello");
-         
+	System.out.println("Hello");
+	System.out.println("Hello");
+
 }
 
 public static void main(String[] args) {
