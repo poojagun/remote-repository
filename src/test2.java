@@ -2,7 +2,7 @@
 public class test2 {
 private void syso() {
 	System.out.println("Hello");
-	System.out.println("Hello in test2");
+	
 }
 
 public static void main(String[] args) {
